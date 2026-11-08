@@ -10,7 +10,7 @@ This is a Multi Threaded Python Port Scanner with a simple GUI, built to underst
 
 **2nd Image:  Scan results**
 <br>
-<img width="400" height="797" alt="image" src="https://github.com/user-attachments/assets/48961b30-67bd-44fc-946f-11da57932bde" />
+<img width="810" height="797" alt="image" src="https://github.com/user-attachments/assets/48961b30-67bd-44fc-946f-11da57932bde" />
 
 
 <br>
@@ -34,7 +34,7 @@ This is a Multi Threaded Python Port Scanner with a simple GUI, built to underst
 **Tools Used:**
 Python, tkinter, socket, threading
 
-**How to Run?**
+**_Runnig Procedure:_**
 1. Install Python 3
 2. Download this project
 3. Run: `python main.py`
